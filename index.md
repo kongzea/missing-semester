@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Missing Semester of Your CS Education
+title: Education
 nositetitle: true
 ---
 
